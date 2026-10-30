@@ -1,1 +1,1 @@
-PEC2: subir el CONTENIDO de esta carpeta a la raíz de un repositorio público y activar GitHub Pages (rama main, /root). Verificar los cuatro enlaces en una ventana privada. Fuentes: Gapminder/Plotly; Plotly datasets Apple OHLC; Banco Mundial SH.IMM.IDPT; OMS IA2030.
+PEC2 Fuentes: Gapminder/Plotly; Plotly datasets Apple OHLC; Banco Mundial SH.IMM.IDPT; OMS IA2030.
